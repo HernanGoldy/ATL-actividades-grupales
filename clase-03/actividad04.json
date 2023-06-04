@@ -1,0 +1,24 @@
+{
+	"preguntas": [
+		{
+			"pregunta": "¿Cuál es la capital de Francia?",
+			"respuestas": ["París"]
+		},
+		{
+			"pregunta": "¿Cuál es el río más largo del mundo?",
+			"respuestas": ["Amazonas"]
+		},
+		{
+			"pregunta": "¿En qué año comenzó la Segunda Guerra Mundial?",
+			"respuestas": ["1939"]
+		},
+		{
+			"pregunta": "¿Cuál es el elemento químico más abundante en el universo?",
+			"respuestas": ["Hidrógeno"]
+		},
+		{
+			"pregunta": "¿Cuál es el océano más grande?",
+			"respuestas": ["Pacífico"]
+		}
+	]
+}
