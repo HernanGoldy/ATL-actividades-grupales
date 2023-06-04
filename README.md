@@ -1,6 +1,7 @@
 #                                  ACTIVIDADES-ATL-ACADEMY
 
-#                                                      ![image](https://github.com/HernanGoldy/actividades-atl-academy/assets/112596102/fc099bd4-925f-4724-9d48-94770f3b646d) 
+#                                                      ![image](https://github.com/HernanGoldy/actividades-atl-academy/assets/112596102/827058e2-5b79-46c9-bf94-754cd7d945be)
+
 #    EQUIPO 2 : ANDEFINED  
 
 #  * IRENE MACHUCA  * LUCAS SIANO  *  GASPAR BIANCO  *  ULISES  *  HERNAN GOLDY   *  GINI BLANCO  *  MATT CASTANO * 
