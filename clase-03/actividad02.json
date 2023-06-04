@@ -1,0 +1,61 @@
+{
+	"nombreEquipo": "Andefined",
+	"numeroEquipo": 2,
+	"integrantes": [
+		{
+			"nombre": "Andrea",
+			"apellido": "Llavel",
+			"usuario": "Andrea llavel#0916"
+		},
+		{
+			"nombre": "Bárbara",
+			"apellido": "Vizgarra",
+			"usuario": "EV∆#3667"
+		},
+		{
+			"nombre": "Daniela",
+			"apellido": "Morales",
+			"usuario": "Danieladsm6#1960"
+		},
+		{
+			"nombre": "Gaspar",
+			"apellido": "Bianco",
+			"usuario": "MobSpawn#9177"
+		},
+		{
+			"nombre": "Irene",
+			"apellido": "Machuca",
+			"usuario": "IreneMachuca#6547"
+		},
+		{
+			"nombre": "Lucas",
+			"apellido": "Siano",
+			"usuario": "Lucas Siano#7816"
+		},
+		{
+			"nombre": "Martin",
+			"apellido": "Muñoz",
+			"usuario": "MartinMuñoz#2461"
+		},
+		{
+			"nombre": "Matias",
+			"apellido": "Samat",
+			"usuario": "MatiSamatAndefined#5252"
+		},
+		{
+			"nombre": "Hernán",
+			"apellido": "Goldy",
+			"usuario": "Goldy#0521"
+		},
+		{
+			"nombre": "Matias",
+			"apellido": "Castagno",
+			"usuario": "Mattcastagno#1094"
+		},
+		{
+			"nombre": "Gini",
+			"apellido": "Blanco",
+			"usuario": "una-chica#2753"
+		}
+	]
+}
