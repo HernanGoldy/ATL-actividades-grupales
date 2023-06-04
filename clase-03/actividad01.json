@@ -1,0 +1,22 @@
+{
+	"Academia": "Idiomas",
+	"Nombre": "Next lang",
+	"Numero de telefono": [156734756, 154456234],
+	"Domicilio": "calle principal",
+	"Numero": 123,
+	"Ciudad": "Villa Carlos Paz",
+	"CursosGenerales": {
+		"ingles_basico": {
+			"Duracion_semanas": 4,
+			"precio": 100
+		},
+		"ingles_avanzado": {
+			"Duracion_semanas": 20,
+			"precio": 400
+		},
+		"italiano": {
+			"Duracion_semanas": 5,
+			"precio": 120
+		}
+	}
+}
