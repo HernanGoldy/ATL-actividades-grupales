@@ -1,4 +1,4 @@
-#                                  ACTIVIDADES-ATL-ACADEMY
+#                                            ATL-ACTIVIDADES-GRUPALES
 
 #    ![image](https://github.com/HernanGoldy/actividades-atl-academy/assets/112596102/e2204bfa-f86f-4f9b-af16-34feac7c2bfd)
     
